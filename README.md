@@ -32,10 +32,14 @@ Advanced Queries
 19.	Find addresses that have been marked "Incorrect Address" multiple times. 
 20.	Create a view showing: Delivery ID, Customer, Address, Status, and Driver. 
 
+
  
 2.	Indexing & Query Optimization 
+
 2.1	Create indexes on route_id, driver_id, and delivery_status.
+
 2.2 execution plans with indexes.
+
 2.3 execution plans without indexes.
 
 
